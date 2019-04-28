@@ -9,8 +9,8 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.study.message</groupId>
-    <artifactId>jms-project</artifactId>
+    <groupId>com.study.message.rabbitmq</groupId>
+    <artifactId>rabbitmq-project</artifactId>
 
 
 </project>
